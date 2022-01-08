@@ -7,11 +7,12 @@ body {
 }
 .page {
   display: flex;
+  padding: 10px;
 }
 main {
   border: 1px solid salmon;
   padding: 10px;
-  margin-right: 1px;
+  margin-right: 2px;
 }
 aside {
   border: 1px solid teal;
